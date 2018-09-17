@@ -1,0 +1,28 @@
+_repo: American-Independence-and-the-French-Revolution-1760-1801_52500
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Winbolt, S. E. (Samuel Edward)
+    alias: Winbolt, Samuel Edward
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '45567'
+    url: http://www.gutenberg.org/2009/agents/45567
+description: ''
+gutenberg_issued: '2016-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52500'
+  lccn: '13017278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+- !lcsh 'Great Britain -- History -- George III, 1760-1820 -- Sources'
+- !lcc 'DA'
+- GITenberg
+title: American Independence and the French Revolution (1760-1801)
+url: http://www.gutenberg.org/ebooks/52500
